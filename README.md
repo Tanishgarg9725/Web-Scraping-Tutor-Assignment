@@ -93,23 +93,3 @@ PS D:\Web-Scraping-Tutor-Assignment> python transform.py
 ✅ Transformation complete. Output saved to data/llm_corpus.jsonl
 ```
 
----
-
-## 🖇️ Steps to Push to GitHub
-
-```bash
-git init
-git add .
-git commit -m "Initial commit - Web Scraping Tutor Assignment"
-git branch -M main
-git remote add origin https://github.com/<your-username>/Web-Scraping-Tutor-Assignment.git
-git push -u origin main
-```
-
----
-
-## 🏁 Author
-
-**Tanish Garg**  
-📧 *[your.email@example.com]*  
-💼 GitHub: [https://github.com/your-username](https://github.com/your-username)
