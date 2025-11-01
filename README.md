@@ -11,22 +11,6 @@ The pipeline performs:
 
 ---
 
-## 🧩 Project Structure
-
-Web-Scraping-Tutor-Assignment/
-│
-├── scraper.py # Fetches Apache JIRA issues
-├── transform.py # Cleans & transforms issues into structured JSONL
-├── utils.py # Helper functions for retry, checkpoint, etc.
-├── requirements.txt # Python dependencies
-├── .gitignore # Ignore unnecessary files
-├── example_output.jsonl # Example of transformed data
-├── data/ # Folder for raw & processed outputs
-│ ├── hadoop_issues.jsonl
-│ ├── hive_issues.jsonl
-│ ├── spark_issues.jsonl
-│ └── llm_corpus.jsonl
-└── README.md # Project documentation
 
 yaml
 Copy code
