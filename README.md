@@ -11,12 +11,6 @@ The pipeline performs:
 
 ---
 
-
-yaml
-Copy code
-
----
-
 ## ⚙️ Requirements
 
 Before running, install dependencies:
